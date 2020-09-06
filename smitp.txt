@@ -1,0 +1,9 @@
+B1.What is Python ,Name some of the features of Python.
+B2: Write a Python program to get the Python version you are using?
+B3.Is python the right choice for Web based Programming?
+B4.Why was the language called as Python?
+B5.Write a Python program to check if a number is positive, negative or zero.
+smit patel
+shashank patel
+ridhdhish patel
+neel mehta
